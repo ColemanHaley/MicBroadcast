@@ -13,7 +13,10 @@
   "author": "Tanner Gabriel",
   "license": "MIT",
   "dependencies": {
+    "auto-launch": "^5.0.5",
+    "electron": "^11.2.1",
     "express": "^4.17.1",
+    "menubar": "^9.0.2",
     "socket.io": "^2.4.0"
   },
   "devDependencies": {
